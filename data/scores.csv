@@ -1,0 +1,7 @@
+student_id,full_name,class_name,attendance,assignment,midterm,final
+SV001,Nguyen Van An,CTK46A,9.0,8.0,7.5,8.0
+SV002,Tran Thi Binh,CTK46A,8.0,7.0,6.5,7.0
+SV003,Le Minh Chau,CTK46B,6.0,5.5,4.0,4.5
+SV004,Pham Gia Huy,CTK46B,10.0,9.0,8.5,9.0
+SV005,Vo Thanh Lam,CTK46A,5.0,4.5,3.5,3.0
+SV006,Do Minh Ngoc,CTK46B,8.5,8.0,7.0,7.5
